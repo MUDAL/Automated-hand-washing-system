@@ -29,3 +29,5 @@ To simulate a situation in which a user of the device places his/her palms close
 1)Reduce the value of the potentiometer to a value below 50%.
 
 2)Return the value of the potentiometer to 50%.
+
+For more information on how the device works and how to program the ATtiny13, check the **docs** folder of this repository.
