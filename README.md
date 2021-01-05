@@ -21,3 +21,11 @@ Software design and simulation for an automated hand washing system based on the
 5.)Paste the path into the **program file** dialog box in step 3.
 
 6.)Run the simulation and enjoy yourself.
+
+**Simulating a proximity sensor**
+
+To simulate a situation in which a user of the device places his/her palms close to an infrared sensor, a potentiometer (RV1 in the simulation file) should be used as follows:
+
+1)Reduce the value of the potentiometer to a value below 50%.
+
+2)Return the value of the potentiometer to 50%.
