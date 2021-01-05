@@ -1,12 +1,15 @@
 # Automated-hand-washing-system
+
 Software design and simulation for an automated hand washing system based on the ATtiny13 microcontroller.
 
-#Requirements (for simulation)
+**Requirements (for simulation)**
+
 1.)Atmel studio 6 or 7 (preferably 7) or Arduino IDE
 
 2.)Proteus 8.x (preferably 8.6)
 
-#How to use
+**How to use**
+
 1.)Compile the source files in Atmel studio or Arduino IDE (with verbose settings enabled).
 
 2.)Open the proteus simulation file.
