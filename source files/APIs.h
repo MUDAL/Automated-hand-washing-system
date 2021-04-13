@@ -1,13 +1,13 @@
 /*
- * wrappers.h
+ * APIs.h
  *
  * Created: 05/01/2021 2:18:37 PM
  *  Author: OLAOLUWA
  */ 
 
 
-#ifndef WRAPPERS_H_
-#define WRAPPERS_H_
+#ifndef API_H_
+#define API_H_
 
 void ConfigAnalogComparator(void);
 void ConfigTimer0(void);
@@ -17,4 +17,4 @@ void StopSoapPump(void);
 void StartWaterPump(void);
 void StopWaterPump(void);
 
-#endif /* WRAPPERS_H_ */
+#endif /* API_H_ */
