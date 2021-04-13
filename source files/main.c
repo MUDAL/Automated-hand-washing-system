@@ -23,7 +23,7 @@ palms close to the infrared sensor again.
 #include <avr/io.h>
 #include <avr/interrupt.h>
 #include <avr/sleep.h>
-#include "wrappers.h"
+#include "APIs.h"
 
 volatile uint8_t hands_close = 0;
 volatile uint8_t soapy_hands = 0;
